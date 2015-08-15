@@ -1,7 +1,7 @@
 # DoubleListExperiment
 EM mechanism for Double List Experiment
 
-# TODO
+## TODO
   1. Read and understand example EM code for standard list experiment design
   2. Write EM code for double list design in paper
   3. Develop simulation code to ensure it has appropriate asymptotic properties (i.e. code works) -- I will share example
